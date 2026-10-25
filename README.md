@@ -1,8 +1,8 @@
-# Hi, I'm Assylkhan Yeraliyev 👋
+# Hi, I'm Assylkhan Yeraliyev 
 
 I am a Grade 12 student at Nazarbayev Intellectual School in Shymkent, Kazakhstan. I am interested in computer science, mathematics, data processing, and building technology that solves practical problems.
 
-## Featured Project: BalaFood 🍎
+## Featured Project: BalaFood 
 
 **BalaFood** is a trilingual kindergarten meal-planning platform designed to simplify menu preparation, ingredient calculations, and nutritional analysis.
 
