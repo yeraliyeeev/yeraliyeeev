@@ -1,42 +1,77 @@
-# Hi, I'm Assylkhan Yeraliyev 
+# Hi, I'm Assylkhan Yeraliyev
 
-I am a Grade 12 student at Nazarbayev Intellectual School in Shymkent, Kazakhstan. I am interested in computer science, mathematics, data processing, and building technology that solves practical problems.
+I am a Grade 12 student at Nazarbayev Intellectual School in Shymkent, Kazakhstan. I am interested in computer science, mathematics, data processing, and developing technology that solves practical problems.
 
-## Featured Project: BalaFood 
+## Featured Projects
 
-**BalaFood** is a trilingual kindergarten meal-planning platform designed to simplify menu preparation, ingredient calculations, and nutritional analysis.
+### BalaFood
 
-The project began in 2024 when I saw my mother struggling to organize kindergarten menus and calculate ingredient quantities and costs. I first created an Excel-based solution and later developed it into a public web application.
+**BalaFood** is a trilingual kindergarten meal-planning platform that simplifies menu preparation, ingredient calculations, and nutritional analysis.
 
-### Real-World Impact
+The project began in 2024 when I saw my mother struggling to organize kindergarten menus and calculate ingredient quantities and costs. I first developed a 30-page Excel-based solution and later transformed it into a public web application.
+
+#### Real-World Impact
 
 - Sold the original spreadsheet solution to more than 35 kindergartens
-- Generated approximately 700,000 KZT in revenue
-- Developed using feedback from kindergarten staff
+- Generated approximately ₸700,000 in revenue
+- Improved the product using feedback from kindergarten staff
 - Supports Kazakh, Russian, and English
 
-### Main Features
+#### Main Features
 
-- Catalogue of 345 technological recipe cards
+- Catalogue of 381 technological recipe cards
+- 14 food categories
 - Search by dish name or ingredient
-- Automatic ingredient scaling for any number of children
-- Age categories for children aged 1–2 and 3–6
+- Automatic ingredient scaling for 1–500 children
+- Age-based nutrition comparison for children aged 1–2 and 3–6
 - Daily breakfast, lunch, and dinner planning
 - Combined daily ingredient calculations
 - Vitamin and mineral estimates
-- Word and Excel export
-- Printable reports with PDF support
+- Word-compatible and Excel-compatible exports
+- Printable reports with Save as PDF support
 - Browser storage for saved meal plans
-- Trilingual interface
+- Responsive trilingual interface
 
-[Open the live website](https://yeraliyeeev.github.io/BalaFood/) · [View the source code](https://github.com/yeraliyeeev/BalaFood)
+[Open BalaFood](https://yeraliyeeev.github.io/BalaFood/) · [View source code](https://github.com/yeraliyeeev/BalaFood)
+
+---
+
+### StudyMate LMS
+
+**StudyMate** is a full-stack learning management system for schools. It combines academic administration and everyday learning tools for managers, teachers, and students.
+
+#### Main Features
+
+- Role-based manager, teacher, and student workflows
+- User, grade, group, and subject management
+- Courses, enrolments, syllabuses, and assignments
+- Assignment, term, and annual marks
+- School timetables
+- Announcements and discussions
+- Awards, leaderboards, and communities
+- Personal task management
+- JWT authentication
+- Protected read-only public demonstration
+
+#### Technology
+
+- React
+- Redux Toolkit
+- Django REST Framework
+- PostgreSQL
+- JWT authentication
+- Render
+
+[Open StudyMate](https://studymate-yeraliyeeev.onrender.com/) · [View source code](https://github.com/yeraliyeeev/studymate-lms)
 
 ## Technologies and Tools
 
-- HTML
-- CSS
-- JavaScript
 - Python
+- JavaScript
+- HTML and CSS
+- React and Redux Toolkit
+- Django REST Framework
+- PostgreSQL
 - Microsoft Excel
 - Git and GitHub
 - Figma
@@ -49,8 +84,8 @@ I served as Vice President of my school's Student Council during the 2025–2026
 ## Current Goals
 
 - Improve BalaFood using feedback from kindergarten staff
-- Expand my knowledge of algorithms and software engineering
-- Build additional projects that address real-world problems
+- Strengthen my knowledge of algorithms and software engineering
+- Develop additional projects addressing real-world problems
 - Study Computer Science at university
 
 ## Languages
